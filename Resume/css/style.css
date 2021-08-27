@@ -1,0 +1,19 @@
+    h1,h2 {
+        background-color:#5344a7;
+        font-weight: bold;
+    }
+        p.padding1 {
+            padding: 20px;
+            background-color: #20bb35;
+            color: white;
+        }
+        body{
+            background-color: rgb(155, 72, 72);
+            color:white;
+        }
+        <style>
+.borderradius2 body{
+    border: 2px solid #42352c;
+    border-radius: 100px;
+}
+</style>
